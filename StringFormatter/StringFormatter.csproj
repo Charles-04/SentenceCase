@@ -9,6 +9,8 @@
     <Description>A simple package for formatting strings to sentence case</Description>
     <PackageIcon>string.jpg</PackageIcon>
     <PackageId>StringFormatter-c4</PackageId>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Charles-04/SentenceCase</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
